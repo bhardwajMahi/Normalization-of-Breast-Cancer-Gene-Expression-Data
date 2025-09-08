@@ -20,7 +20,6 @@ Saves normalized expression values into a CSV file.
 📂 breast-cancer-normalization
  ┣ 📂 scripts/             
  ┃ ┗ normalize_expression.R   # Main script
- ┣ install_packages.R         # Installs required packages
  ┣ README.md                  # Documentation
  ┣ .gitignore                 
  ┣ LICENSE                    # Usage license
