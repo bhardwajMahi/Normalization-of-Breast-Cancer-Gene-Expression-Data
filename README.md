@@ -29,7 +29,7 @@ Saves normalized expression values into a CSV file.
 
 Clone this repository:
 
-git clone https://github.com/your-username/breast-cancer-normalization.git
+git clone https://github.com/bhardwajMahi/Normalization-of-Breast-Cancer-Gene-Expression-Data.git
 cd breast-cancer-normalization
 
 
